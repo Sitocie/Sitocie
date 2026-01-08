@@ -63,11 +63,4 @@ Mostly here to tinker with my own projects and stay in the terminal.
 
 ---
 
-### github life
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=8b949e&icon_color=58a6ff" width="380" />
-
----
-
-<p align="right">
-  <code>// if it works, don't touch it.</code>
-</p>
+>
