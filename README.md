@@ -1,4 +1,4 @@
-# 0xSITOCIE
+# hi, i'm sitocie.
 
 <p align="center">
 <pre>
@@ -49,22 +49,25 @@
 </pre>
 </p>
 
-### `Independent Architect // System Logic`
+I code things sometimes. Usually backend, usually quiet. 
+Mostly here to tinker with my own projects and stay in the terminal.
 
-Engineering silent infrastructure. I prioritize logical consistency, high-availability architecture, and concrete performance over narrative.
-
-- 🧩 **Focus:** Low-level optimization and automated maintenance systems.
-- 🛠️ **Approach:** Results-driven development. Minimal footprint, maximum impact.
-- 🧱 **Philosophy:** Build systems that require no explanation.
+- ⚙️ **now:** fixing bugs I created yesterday.
+- 🐚 **status:** `alias please="sudo"`
+- 🍵 **vibe:** minimal input, enough output.
 
 ---
 
-### `Technical Capabilities`
+### stuff i use (mostly)
+`typescript` • `node.js` • `python` • `rust` • `c#` • `go` • `postgres` • `redis`
 
-```typescript
-type Profile = {
-  execution: ["Node.js", "TypeScript", "Python"],
-  performance: ["Rust", "C#", "Go"],
-  structure: ["PostgreSQL", "Redis", "NoSQL"],
-  paradigm: "System Thinking"
-}
+---
+
+### github life
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=8b949e&icon_color=58a6ff" width="380" />
+
+---
+
+<p align="right">
+  <code>// if it works, don't touch it.</code>
+</p>
