@@ -52,7 +52,7 @@
 I code things sometimes. Usually backend, usually quiet. 
 Mostly here to tinker with my own projects and stay in the terminal.
 
-- ⚙️ **now:** fixing bugs I created yesterday.
+- ⚙️ **now:** :o
 - 🐚 **status:** `alias please="sudo"`
 - 🍵 **vibe:** minimal input, enough output.
 
