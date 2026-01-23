@@ -1,4 +1,4 @@
-# hi, i'm sitocie.
+# hi
 
 <p align="center">
 <pre>
@@ -49,17 +49,16 @@
 </pre>
 </p>
 
-I code things sometimes. Usually backend, usually quiet. 
-Mostly here to tinker with my own projects and stay in the terminal.
+Babu Frik
 
 - ⚙️ **now:** :o
-- 🐚 **status:** `alias please="sudo"`
+- 🐚 **status:** chill
 - 🍵 **vibe:** minimal input, enough output.
 
 ---
 
 ### stuff i use (mostly)
-`typescript` • `node.js` • `python` • `rust` • `c#` • `go` • `postgres` • `redis`
+`typescript` • `node.js` • `python` • `go` • `postgres` • `react` 
 
 ---
 
